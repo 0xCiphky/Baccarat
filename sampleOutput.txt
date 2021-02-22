@@ -1,0 +1,118 @@
+*******************
+Welcome to BACCARAT
+*******************
+Enter the input filename: shuffledDeck.txt
+
+ROUND 1
+----------
+Player: KS AH --> Score = 1
+Dealer: JH QS --> Score = 0
+Player draws 6C
+Dealer draws 6D
+Player: KS AH 6C --> Score = 7
+Dealer: JH QS 6D --> Score = 6
+Player wins round 1!
+**********
+Play another round? (Y/N) y
+
+ROUND 2
+----------
+Player: 5H KC --> Score = 5
+Dealer: TS TH --> Score = 0
+Player draws TD
+Dealer draws KD
+Player: 5H KC TD --> Score = 5
+Dealer: TS TH KD --> Score = 0
+Player wins round 2!
+**********
+Play another round? (Y/N) y
+
+ROUND 3
+----------
+Player: 7H 9C --> Score = 6
+Dealer: 3C 2C --> Score = 5
+Player stands
+Dealer draws 8S
+Player: 7H 9C --> Score = 6
+Dealer: 3C 2C 8S --> Score = 3
+Player wins round 3!
+**********
+Play another round? (Y/N) y
+
+ROUND 4
+----------
+Player: 9S AD --> Score = 0
+Dealer: 4C 2D --> Score = 6
+Player draws QH
+Dealer stands
+Player: 9S AD QH --> Score = 0
+Dealer: 4C 2D --> Score = 6
+Dealer wins round 4!
+**********
+Play another round? (Y/N) y
+
+ROUND 5
+----------
+Player: AC 4H --> Score = 5
+Dealer: 2H 8H --> Score = 0
+Player draws 4S
+Dealer draws QD
+Player: AC 4H 4S --> Score = 9
+Dealer: 2H 8H QD --> Score = 0
+NATURAL! Player wins round 5!
+**********
+Play another round? (Y/N) y
+
+ROUND 6
+----------
+Player: 4D 5D --> Score = 9
+Dealer: 3S 6S --> Score = 9
+NATURAL! Round 6 is a tie!
+**********
+Play another round? (Y/N) y
+
+ROUND 7
+----------
+Player: 3D TC --> Score = 3
+Dealer: QC JD --> Score = 0
+Player draws 8C
+Dealer draws 6H
+Player: 3D TC 8C --> Score = 1
+Dealer: QC JD 6H --> Score = 6
+Dealer wins round 7!
+**********
+Play another round? (Y/N) y
+
+ROUND 8
+----------
+Player: JC 9H --> Score = 9
+Dealer: AS 7S --> Score = 8
+NATURAL! Player wins round 8!
+**********
+Play another round? (Y/N) y
+
+ROUND 9
+----------
+Player: 5C 7C --> Score = 2
+Dealer: 7D 9D --> Score = 6
+Player draws 5S
+Dealer stands
+Player: 5C 7C 5S --> Score = 7
+Dealer: 7D 9D --> Score = 6
+Player wins round 9!
+**********
+Play another round? (Y/N) y
+Not enough cards for another round.  Creating a new deck.
+
+ROUND 10
+----------
+Player: KD 3H --> Score = 3
+Dealer: 5S 9S --> Score = 4
+Player draws 4D
+Dealer draws 5H
+Player: KD 3H 4D --> Score = 7
+Dealer: 5S 9S 5H --> Score = 9
+NATURAL! Dealer wins round 10!
+**********
+Play another round? (Y/N) n
+Thanks for playing...Goodbye.
